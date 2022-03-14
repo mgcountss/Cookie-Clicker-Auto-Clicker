@@ -1,5 +1,5 @@
 //just put this code in the console of https://orteil.dashnet.org/cookieclicker/
-
+```
 setInterval(function(){
     document.querySelector("#bigCookie").click();
     document.querySelector("#upgrade0").click();
@@ -14,3 +14,4 @@ setInterval(function(){
     document.querySelector("#product1").click();
     document.querySelector("#product0").click();
 });
+```
